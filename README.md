@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Analytics and flutter or mobile programming
 - 📫 We can keep in touch by linkedin where u can found the link at my bio
 
-the most quotes that I like is “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” Alan Turing
+the most quote that I like is “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” Alan Turing
 
 <!---
 hisyamyafie/hisyamyafie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
